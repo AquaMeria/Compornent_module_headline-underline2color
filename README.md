@@ -1,0 +1,2 @@
+# Compornent_module_headline-underline2color
+下線2色の見出し
