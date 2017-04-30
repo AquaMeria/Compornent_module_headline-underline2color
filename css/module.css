@@ -1,0 +1,25 @@
+/*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+┏┓
+┗■ INDEX
+
+|   01.見出し
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
+/*--------------------
+    01.見出し
+--------------------*/
+.headline__title{
+    border-bottom: solid 3px #7E807B;
+    padding-bottom: 1rem;
+    position: relative;
+}
+.headline__title:after{
+    border-bottom: solid 3px #333333;
+    bottom: -3px;
+    content: " ";
+    display: block;
+    position: absolute;
+    width: 20%;
+}
